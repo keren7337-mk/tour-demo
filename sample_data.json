@@ -1,0 +1,355 @@
+{
+  "_comment": "화면 확인용 예시 데이터입니다. 장소·행사 이름과 내용은 모두 가상입니다. 시도·시군구 코드와 구조는 활용매뉴얼 v4.4를 따릅니다.",
+  "sido": [
+    {
+      "rnum": 1,
+      "code": "11",
+      "name": "서울특별시"
+    },
+    {
+      "rnum": 2,
+      "code": "26",
+      "name": "부산광역시"
+    },
+    {
+      "rnum": 3,
+      "code": "50",
+      "name": "제주특별자치도"
+    }
+  ],
+  "sigungu": {
+    "11": [
+      {
+        "rnum": 1,
+        "code": "110",
+        "name": "종로구"
+      },
+      {
+        "rnum": 2,
+        "code": "140",
+        "name": "중구"
+      }
+    ],
+    "26": [
+      {
+        "rnum": 1,
+        "code": "380",
+        "name": "사하구"
+      }
+    ],
+    "50": [
+      {
+        "rnum": 1,
+        "code": "130",
+        "name": "서귀포시"
+      }
+    ]
+  },
+  "places": [
+    {
+      "contentid": "900001",
+      "contenttypeid": "12",
+      "title": "예시 한옥마을 산책길",
+      "addr1": "서울특별시 종로구 예시로 1",
+      "addr2": "",
+      "mapy": "37.5826",
+      "mapx": "126.983",
+      "lDongRegnCd": "11",
+      "lDongSignguCd": "110",
+      "firstimage": "",
+      "firstimage2": "",
+      "tel": "",
+      "cpyrhtDivCd": "Type1"
+    },
+    {
+      "contentid": "900002",
+      "contenttypeid": "14",
+      "title": "예시 근대문학관",
+      "addr1": "서울특별시 종로구 예시로 22",
+      "addr2": "",
+      "mapy": "37.576",
+      "mapx": "126.977",
+      "lDongRegnCd": "11",
+      "lDongSignguCd": "110",
+      "firstimage": "",
+      "firstimage2": "",
+      "tel": "",
+      "cpyrhtDivCd": "Type1"
+    },
+    {
+      "contentid": "900003",
+      "contenttypeid": "38",
+      "title": "예시 전통시장",
+      "addr1": "서울특별시 중구 예시길 5",
+      "addr2": "",
+      "mapy": "37.566",
+      "mapx": "126.997",
+      "lDongRegnCd": "11",
+      "lDongSignguCd": "140",
+      "firstimage": "",
+      "firstimage2": "",
+      "tel": "",
+      "cpyrhtDivCd": "Type1"
+    },
+    {
+      "contentid": "900004",
+      "contenttypeid": "39",
+      "title": "예시 칼국수집",
+      "addr1": "서울특별시 중구 예시길 17",
+      "addr2": "",
+      "mapy": "37.564",
+      "mapx": "126.992",
+      "lDongRegnCd": "11",
+      "lDongSignguCd": "140",
+      "firstimage": "",
+      "firstimage2": "",
+      "tel": "",
+      "cpyrhtDivCd": "Type1"
+    },
+    {
+      "contentid": "900005",
+      "contenttypeid": "12",
+      "title": "예시 강변 생태공원",
+      "addr1": "부산광역시 사하구 예시강로 100",
+      "addr2": "",
+      "mapy": "35.104",
+      "mapx": "128.946",
+      "lDongRegnCd": "26",
+      "lDongSignguCd": "380",
+      "firstimage": "",
+      "firstimage2": "",
+      "tel": "",
+      "cpyrhtDivCd": "Type1"
+    },
+    {
+      "contentid": "900006",
+      "contenttypeid": "14",
+      "title": "예시 바다도서관",
+      "addr1": "부산광역시 사하구 예시해안로 8",
+      "addr2": "",
+      "mapy": "35.096",
+      "mapx": "128.966",
+      "lDongRegnCd": "26",
+      "lDongSignguCd": "380",
+      "firstimage": "",
+      "firstimage2": "",
+      "tel": "",
+      "cpyrhtDivCd": "Type1"
+    },
+    {
+      "contentid": "900007",
+      "contenttypeid": "12",
+      "title": "예시 폭포 전망대",
+      "addr1": "제주특별자치도 서귀포시 예시폭포로 3",
+      "addr2": "",
+      "mapy": "33.252",
+      "mapx": "126.418",
+      "lDongRegnCd": "50",
+      "lDongSignguCd": "130",
+      "firstimage": "",
+      "firstimage2": "",
+      "tel": "",
+      "cpyrhtDivCd": "Type1"
+    },
+    {
+      "contentid": "900008",
+      "contenttypeid": "38",
+      "title": "예시 오일시장",
+      "addr1": "제주특별자치도 서귀포시 예시시장길 12",
+      "addr2": "",
+      "mapy": "33.25",
+      "mapx": "126.424",
+      "lDongRegnCd": "50",
+      "lDongSignguCd": "130",
+      "firstimage": "",
+      "firstimage2": "",
+      "tel": "",
+      "cpyrhtDivCd": "Type1"
+    }
+  ],
+  "detail": [
+    {
+      "contentid": "900001",
+      "contenttypeid": "12",
+      "title": "예시 한옥마을 산책길",
+      "addr1": "서울특별시 종로구 예시로 1",
+      "addr2": "",
+      "mapy": "37.5826",
+      "mapx": "126.983",
+      "lDongRegnCd": "11",
+      "lDongSignguCd": "110",
+      "firstimage": "",
+      "firstimage2": "",
+      "tel": "",
+      "cpyrhtDivCd": "Type1",
+      "homepage": "",
+      "overview": "예시 한옥마을 산책길은(는) 화면 확인용으로 만든 가상의 장소입니다. 실제 API로 바꾸면 한국관광공사가 제공하는 소개글이 이 자리에 나옵니다."
+    },
+    {
+      "contentid": "900002",
+      "contenttypeid": "14",
+      "title": "예시 근대문학관",
+      "addr1": "서울특별시 종로구 예시로 22",
+      "addr2": "",
+      "mapy": "37.576",
+      "mapx": "126.977",
+      "lDongRegnCd": "11",
+      "lDongSignguCd": "110",
+      "firstimage": "",
+      "firstimage2": "",
+      "tel": "",
+      "cpyrhtDivCd": "Type1",
+      "homepage": "",
+      "overview": "예시 근대문학관은(는) 화면 확인용으로 만든 가상의 장소입니다. 실제 API로 바꾸면 한국관광공사가 제공하는 소개글이 이 자리에 나옵니다."
+    },
+    {
+      "contentid": "900003",
+      "contenttypeid": "38",
+      "title": "예시 전통시장",
+      "addr1": "서울특별시 중구 예시길 5",
+      "addr2": "",
+      "mapy": "37.566",
+      "mapx": "126.997",
+      "lDongRegnCd": "11",
+      "lDongSignguCd": "140",
+      "firstimage": "",
+      "firstimage2": "",
+      "tel": "",
+      "cpyrhtDivCd": "Type1",
+      "homepage": "",
+      "overview": "예시 전통시장은(는) 화면 확인용으로 만든 가상의 장소입니다. 실제 API로 바꾸면 한국관광공사가 제공하는 소개글이 이 자리에 나옵니다."
+    },
+    {
+      "contentid": "900004",
+      "contenttypeid": "39",
+      "title": "예시 칼국수집",
+      "addr1": "서울특별시 중구 예시길 17",
+      "addr2": "",
+      "mapy": "37.564",
+      "mapx": "126.992",
+      "lDongRegnCd": "11",
+      "lDongSignguCd": "140",
+      "firstimage": "",
+      "firstimage2": "",
+      "tel": "",
+      "cpyrhtDivCd": "Type1",
+      "homepage": "",
+      "overview": "예시 칼국수집은(는) 화면 확인용으로 만든 가상의 장소입니다. 실제 API로 바꾸면 한국관광공사가 제공하는 소개글이 이 자리에 나옵니다."
+    },
+    {
+      "contentid": "900005",
+      "contenttypeid": "12",
+      "title": "예시 강변 생태공원",
+      "addr1": "부산광역시 사하구 예시강로 100",
+      "addr2": "",
+      "mapy": "35.104",
+      "mapx": "128.946",
+      "lDongRegnCd": "26",
+      "lDongSignguCd": "380",
+      "firstimage": "",
+      "firstimage2": "",
+      "tel": "",
+      "cpyrhtDivCd": "Type1",
+      "homepage": "",
+      "overview": "예시 강변 생태공원은(는) 화면 확인용으로 만든 가상의 장소입니다. 실제 API로 바꾸면 한국관광공사가 제공하는 소개글이 이 자리에 나옵니다."
+    },
+    {
+      "contentid": "900006",
+      "contenttypeid": "14",
+      "title": "예시 바다도서관",
+      "addr1": "부산광역시 사하구 예시해안로 8",
+      "addr2": "",
+      "mapy": "35.096",
+      "mapx": "128.966",
+      "lDongRegnCd": "26",
+      "lDongSignguCd": "380",
+      "firstimage": "",
+      "firstimage2": "",
+      "tel": "",
+      "cpyrhtDivCd": "Type1",
+      "homepage": "",
+      "overview": "예시 바다도서관은(는) 화면 확인용으로 만든 가상의 장소입니다. 실제 API로 바꾸면 한국관광공사가 제공하는 소개글이 이 자리에 나옵니다."
+    },
+    {
+      "contentid": "900007",
+      "contenttypeid": "12",
+      "title": "예시 폭포 전망대",
+      "addr1": "제주특별자치도 서귀포시 예시폭포로 3",
+      "addr2": "",
+      "mapy": "33.252",
+      "mapx": "126.418",
+      "lDongRegnCd": "50",
+      "lDongSignguCd": "130",
+      "firstimage": "",
+      "firstimage2": "",
+      "tel": "",
+      "cpyrhtDivCd": "Type1",
+      "homepage": "",
+      "overview": "예시 폭포 전망대은(는) 화면 확인용으로 만든 가상의 장소입니다. 실제 API로 바꾸면 한국관광공사가 제공하는 소개글이 이 자리에 나옵니다."
+    },
+    {
+      "contentid": "900008",
+      "contenttypeid": "38",
+      "title": "예시 오일시장",
+      "addr1": "제주특별자치도 서귀포시 예시시장길 12",
+      "addr2": "",
+      "mapy": "33.25",
+      "mapx": "126.424",
+      "lDongRegnCd": "50",
+      "lDongSignguCd": "130",
+      "firstimage": "",
+      "firstimage2": "",
+      "tel": "",
+      "cpyrhtDivCd": "Type1",
+      "homepage": "",
+      "overview": "예시 오일시장은(는) 화면 확인용으로 만든 가상의 장소입니다. 실제 API로 바꾸면 한국관광공사가 제공하는 소개글이 이 자리에 나옵니다."
+    }
+  ],
+  "festivals": [
+    {
+      "contentid": "910001",
+      "contenttypeid": "15",
+      "title": "예시 골목 책 축제",
+      "lDongRegnCd": "11",
+      "lDongSignguCd": "110",
+      "mapy": "37.579",
+      "mapx": "126.985",
+      "eventstartdate": "20261114",
+      "eventenddate": "20261116",
+      "addr1": "서울특별시 종로구 예시로 30",
+      "addr2": "",
+      "firstimage": "",
+      "firstimage2": ""
+    },
+    {
+      "contentid": "910002",
+      "contenttypeid": "15",
+      "title": "예시 겨울 빛 축제",
+      "lDongRegnCd": "26",
+      "lDongSignguCd": "380",
+      "mapy": "35.1",
+      "mapx": "128.95",
+      "eventstartdate": "20261201",
+      "eventenddate": "20261231",
+      "addr1": "부산광역시 사하구 예시강로 120",
+      "addr2": "",
+      "firstimage": "",
+      "firstimage2": ""
+    },
+    {
+      "contentid": "910003",
+      "contenttypeid": "15",
+      "title": "예시 감귤 수확 체험 행사",
+      "lDongRegnCd": "50",
+      "lDongSignguCd": "130",
+      "mapy": "33.255",
+      "mapx": "126.42",
+      "eventstartdate": "20261120",
+      "eventenddate": "20261130",
+      "addr1": "제주특별자치도 서귀포시 예시농원길 7",
+      "addr2": "",
+      "firstimage": "",
+      "firstimage2": ""
+    }
+  ]
+}
